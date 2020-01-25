@@ -14,5 +14,4 @@ def divide(x):
 def none(x):
     print("oh no!")
 
-def mult(x,y):
-    return x*y
+print("why")
