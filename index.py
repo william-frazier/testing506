@@ -12,7 +12,7 @@ def divide(x):
     return x/2
 
 def adder(x,y):
-    return x+y
+    return x+x
 
 def mult(x,y):
     return x*y
