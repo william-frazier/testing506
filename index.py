@@ -11,7 +11,7 @@ def subtract(x,y):
 def divide(x):
     return x/2
 
-def add(x,y):
+def adder(x,y):
     return x+y
 
 def mult(x,y):
