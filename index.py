@@ -8,10 +8,5 @@ def square(x):
 def subtract(x,y):
     return x-y
 
-def divide(x):
-    return x/2
-
-def none(x):
-    print("oh no!")
-
-print("why")
+def hello():
+    return "hello"
