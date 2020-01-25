@@ -3,3 +3,6 @@ def test():
 
 def square(x):
     return x**2
+
+def subtract(x,y):
+    return x-y
