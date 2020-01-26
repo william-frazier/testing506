@@ -7,7 +7,3 @@ def subtract(x,y):
 
 def divide(x,y):
     return x/y
-
-
-
-print("I added a new feature!")
