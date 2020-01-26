@@ -5,13 +5,9 @@ def test():
 def subtract(x,y):
     return x-y
 
-def divide(x):
-    return x/2
+def divide(x,y):
+    return x/y
 
-def none(x):
-    print("oh no!")
 
-def SVD(x):
-    print("I am still unclear on how SVD works at a low level.")
 
-print("We have added a new feature.")
+print("I added a new feature!")
