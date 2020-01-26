@@ -14,4 +14,4 @@ def none(x):
 def SVD(x):
     print("I am still unclear on how SVD works at a low level.")
 
-print("I have added a new feature.")
+print("We have added a new feature.")
