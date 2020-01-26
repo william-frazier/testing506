@@ -8,10 +8,8 @@ def square(x):
 def subtract(x,y):
     return x-y
 
-def divide(x):
-    return x/2
+def divide(x,y):
+    return x/y
 
-def none(x):
-    print("oh no!")
 
-print("I have added a new feature.")
+print("We added a new feature!")
